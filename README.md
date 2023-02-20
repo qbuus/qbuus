@@ -1,11 +1,11 @@
 ![landing page gif](giphy.gif)
 
+<p align="center">
+  <img src="giphy.gif" width="350" title="Landing page coding gif">
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakub
 =============================================================================================================================
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="350" title="Landing page coding gif">
-</p>
 
 Have always been curious about how things are coded. Started coding at the beginning of 2022 and fell in love instantly. The ability to see that even the smallest change can make a big difference is exciting and scary at the same time. I try to code better each day
 

@@ -1,5 +1,3 @@
-![landing page gif](giphy.gif)
-
 <p align="center">
   <img src="giphy.gif" width="350" title="Landing page coding gif">
 </p>

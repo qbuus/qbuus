@@ -1,3 +1,5 @@
+![landing page gif](giphy.gif)
+
 ### Hi there 👋
 
 <!--
